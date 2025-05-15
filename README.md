@@ -1,1 +1,1 @@
-# odin-landingPage
+This is a simple landing page(Page that pops up when a website is opened) made by nitheesh.
